@@ -1,0 +1,17 @@
+body
+{
+	font-family: "Book Antiqua";
+	background-color: #383535;
+	color: white;        
+}
+
+div.column_cell_01
+{
+	border: 4px;
+	border-color: black;
+	border-style: solid;
+	width: 10%;
+	position: absolute;
+	height: 10%;
+	background-color: #545454;
+}
